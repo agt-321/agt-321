@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, bem vindo(a) ao meu perfil! 🥇🐈‍⬛
+Meu nome é Agatha da Silva Mendes
 
-<!--
-**agt-321/agt-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudo no Colégio Estadual Padre Cláudio Morelli
 
-Here are some ideas to get you started:
+- Sou formada em Informática Avançada
+- Faço Academia 🖤
+- Estou em processo de aprendizagem de programação utiizando a plataforma [Alura](www.alura.com.br)
+- Danço e estou em processo de aprendizado na área músical
+- Vou largar tudo e morar no Litoral
+- Gosto de sagas de filmes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  Caso queira entrar em contato comigo: agatha.silva.mendes@escola.pr.gov.br
+  
+
+
+
+
