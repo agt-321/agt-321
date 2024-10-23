@@ -9,7 +9,7 @@ Atualmente estudo no Colégio Estadual Padre Cláudio Morelli
 - Danço e estou em processo de aprendizado na área músical.
 - Vou largar tudo e morar no Litoral.
 - Gosto de sagas de filmes.
-
+- Fómula 1 ♥️
 
 
 #### Caso queira entrar em contato comigo: 
