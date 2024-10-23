@@ -5,7 +5,6 @@ Meu nome é Agatha da Silva Mendes
 Atualmente estudo no Colégio Estadual Padre Cláudio Morelli
 
 - Sou formada em Informática Avançada.
-- Faço Academia. 🖤
 - Estou em processo de aprendizagem de programação utiizando a plataforma [Alura](www.alura.com.br).
 - Danço e estou em processo de aprendizado na área músical.
 - Vou largar tudo e morar no Litoral.
